@@ -4,7 +4,7 @@
 
   <h2 align="center">Calendar</h2>
 
-  this made by using html, css & javasrcript 
+  this calendar made by using html, css & javasrcript 
 
   <a href="https://650453041737d416dbad897b--startling-praline-63bde7.netlify.app/"><strong>➥ Live Demo</strong></a>
 </div>
